@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Guia 4</string>
+    <string name="btn_red">Red</string>
+    <string name="btn_white">White</string>
     <string name="action_search">Buscar</string>
     <string name="action_setting">Configuration</string>
 </resources>
